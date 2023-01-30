@@ -1,6 +1,6 @@
 {
     "Ads": {
-        "show_ads": true,
+        "show_ads": false,
         "bannerAd": "max",
         "InterAd": "max",
         "NativeAd": "max",
@@ -40,9 +40,9 @@
 		},
         "privacyPolicy": "https://",
 	    
-		"genderActivity": true,
+		"genderActivity": false,
 	    
-		"phoneSystemActivity": true,
+		"phoneSystemActivity": false,
 	    
 		"questionActivity1": {
 			"active": false,
