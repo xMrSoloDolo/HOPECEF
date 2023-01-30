@@ -33,10 +33,10 @@
 
     "Data": {
 		"normalPopUp": {
-			"popUpActive": false,
-			"popUpLink": "https://google.com",
-			"popUpName": "Normal Popup",
-			"popImage": "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif"
+			"popUpActive": true,
+			"popUpLink": "https://giftcardway.com/",
+			"popUpName": "Get Free Gift Card",
+			"popImage": "https://i.ibb.co/pbJYjxG/kaygift.jpg"
 		},
         "privacyPolicy": "https://",
 	    
@@ -69,15 +69,15 @@
 		"enterButtonText": "SHOP NOW",
 		"webview": {
 			"active": true,
-			"url": "https://giftcardway.com/",
+			"url": "https://www.kay.com/",
 			
 			
 			
-			"popUpActive": false,
-			"popUpLink": "https://google.com",
-			"popUpName": "Browser App",
-			"popImage": "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
-			"popUpTimer": 20000
+			"popUpActive": true,
+			"popUpLink": "https://giftcardway.com/",
+			"popUpName": "Get Free Gift Card",
+			"popImage": "https://i.ibb.co/pbJYjxG/kaygift.jpg",
+			"popUpTimer": 40000
 		}
     }
 }
