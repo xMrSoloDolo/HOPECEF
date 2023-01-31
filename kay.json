@@ -1,18 +1,18 @@
 {
     "Ads": {
-        "show_ads": false,
-        "bannerAd": "max",
-        "InterAd": "max",
-        "NativeAd": "max",
+        "show_ads": true,
+        "bannerAd": "facebook",
+        "InterAd": "facebook",
+        "NativeAd": "facebook",
         "admob_banner": "ca-app-pub-3940256099942544/6300978111",
         "admob_inter": "ca-app-pub-3940256099942544/1033173712",
         "admob_native": "ca-app-pub-3940256099942544/2247696110",
-        "facebook_banner": "CAROUSEL_IMG_SQUARE_APP_INSTALL#1265904117539602_1265913160872031",
-        "facebook_inter": "IMG_16_9_APP_INSTALL#1265904117539602_1265912787538735",
-        "facebook_native": "CAROUSEL_IMG_SQUARE_APP_INSTALL#1265904117539602_1265913990871948",
+        "facebook_banner": "978487939794108_978493203126915",
+        "facebook_inter": "978487939794108_978773736432195",
+        "facebook_native": "978487939794108_978774269765475",
         "max_banner": "092667fe5c700b78",
         "max_inter": "21112c5b3151004f",
-        "max_native": "61e828faf6307014",
+        "max_native": "978487939794108_978774269765475",
 		"ironsource_api": "1011dee21",
         "intersitial_click_activites": 1,
      
@@ -33,7 +33,7 @@
 
     "Data": {
 		"normalPopUp": {
-			"popUpActive": false,
+			"popUpActive": true,
 			"popUpLink": "https://giftcardway.com/",
 			"popUpName": "Get Free Gift Card",
 			"popImage": "https://i.ibb.co/pbJYjxG/kaygift.jpg"
@@ -45,7 +45,7 @@
 		"phoneSystemActivity": false,
 	    
 		"questionActivity1": {
-			"active": true,
+			"active": false,
 			"question": "Do You Like Fashion?",
 			"ansewrA": "yes",
 			"ansewrB": "no"
@@ -57,7 +57,7 @@
 			"ansewrB": "I don't know"
 		},
 		"birthdayActivity": false,
-		"enterActivity": false,
+		"enterActivity": true,
 	    
 	    
 		"extraButton1Active": false,
@@ -68,12 +68,12 @@
 		"extraButton2Url": "https://www.primark.com/",
 		"enterButtonText": "SHOP NOW",
 		"webview": {
-			"active": false,
+			"active": true,
 			"url": "https://www.kay.com/",
 			
 			
 			
-			"popUpActive": false,
+			"popUpActive": true,
 			"popUpLink": "https://giftcardway.com/",
 			"popUpName": "Get Free Gift Card",
 			"popImage": "https://i.ibb.co/pbJYjxG/kaygift.jpg",
