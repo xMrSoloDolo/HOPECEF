@@ -33,20 +33,20 @@
 
     "Data": {
 		"normalPopUp": {
-			"popUpActive": true,
+			"popUpActive": false,
 			"popUpLink": "https://giftcardway.com/",
 			"popUpName": "Get Free Gift Card",
 			"popImage": "https://i.ibb.co/pbJYjxG/kaygift.jpg"
 		},
         "privacyPolicy": "https://",
 	    
-		"genderActivity": false,
+		"genderActivity": true,
 	    
 		"phoneSystemActivity": false,
 	    
 		"questionActivity1": {
-			"active": false,
-			"question": "you like shopping?",
+			"active": true,
+			"question": "Do You Like Fashion?",
 			"ansewrA": "yes",
 			"ansewrB": "no"
 		},
@@ -57,7 +57,7 @@
 			"ansewrB": "I don't know"
 		},
 		"birthdayActivity": false,
-		"enterActivity": true,
+		"enterActivity": false,
 	    
 	    
 		"extraButton1Active": false,
@@ -68,12 +68,12 @@
 		"extraButton2Url": "https://www.primark.com/",
 		"enterButtonText": "SHOP NOW",
 		"webview": {
-			"active": true,
+			"active": false,
 			"url": "https://www.kay.com/",
 			
 			
 			
-			"popUpActive": true,
+			"popUpActive": false,
 			"popUpLink": "https://giftcardway.com/",
 			"popUpName": "Get Free Gift Card",
 			"popImage": "https://i.ibb.co/pbJYjxG/kaygift.jpg",
