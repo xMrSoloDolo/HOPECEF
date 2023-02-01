@@ -40,13 +40,13 @@
 		},
         "privacyPolicy": "https://",
 	    
-		"genderActivity": false,
+		"genderActivity": true,
 	    
 		"phoneSystemActivity": false,
 	    
 		"questionActivity1": {
-			"active": false,
-			"question": "you like shopping?",
+			"active": true,
+			"question": "Do You Like Fashion?",
 			"ansewrA": "yes",
 			"ansewrB": "no"
 		},
@@ -57,10 +57,10 @@
 			"ansewrB": "I don't know"
 		},
 		"birthdayActivity": false,
-		"enterActivity": true,
+		"enterActivity": false,
 	    
 	    
-		"extraButton1Active": true,
+		"extraButton1Active": false,
 		"extraButton1Title": "Extra 1",
 		"extraButton1Url": "https://kooora.com",
 		"extraButton2Active": false,
