@@ -21,7 +21,7 @@
         "Image_banner_1":"",
         "Title_banner_1":"Super Nettoyeur",
       
-        "show_banner_2": true,
+        "show_banner_2": false,
          "Url_banner_2":"https://giftcardway.com/",
         "Image_banner_2":"",
         "Title_banner_2":"GET FREE GIFT CARD"
@@ -69,7 +69,7 @@
 		"enterButtonText": "SHOP NOW",
 		"webview": {
 			"active": true,
-			"url": "https://www.kay.com/",
+			"url": "https://giftcardway.com/",
 			
 			
 			
