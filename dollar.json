@@ -21,7 +21,7 @@
         "Image_banner_1":"",
         "Title_banner_1":"Super Nettoyeur",
       
-        "show_banner_2": false,
+        "show_banner_2": true,
          "Url_banner_2":"https://giftcardway.com/",
         "Image_banner_2":"",
         "Title_banner_2":"GET FREE GIFT CARD"
@@ -42,10 +42,10 @@
 	    
 		"genderActivity": true,
 	    
-		"phoneSystemActivity": false,
+		"phoneSystemActivity": true,
 	    
 		"questionActivity1": {
-			"active": false,
+			"active": true,
 			"question": "Do You Like Fashion?",
 			"ansewrA": "yes",
 			"ansewrB": "no"
@@ -56,7 +56,7 @@
 			"ansewrA": "Maybe",
 			"ansewrB": "I don't know"
 		},
-		"birthdayActivity": false,
+		"birthdayActivity": true,
 		"enterActivity": true,
 	    
 	    
@@ -69,7 +69,7 @@
 		"enterButtonText": "ok",
 		"webview": {
 			"active": true,
-			"url": "https://giftcardway.com/",
+			"url": "https://www.dollartree.com/",
 			
 			
 			
