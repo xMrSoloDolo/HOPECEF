@@ -60,12 +60,12 @@
 		"enterActivity": true,
 	    
 	    
-		"extraButton1Active": false,
-		"extraButton1Title": "Extra 1",
-		"extraButton1Url": "https://kooora.com",
-		"extraButton2Active": false,
-		"extraButton2Title": "Extra 2",
-		"extraButton2Url": "https://www.primark.com/",
+		"extraButton1Active": true,
+		"extraButton1Title": "NEW ARRIVALS",
+		"extraButton1Url": "https://www.primark.com/en-gb/r/home/new-arrivals",
+		"extraButton2Active": true,
+		"extraButton2Title": "PROMO CODES",
+		"extraButton2Url": "https://www.wethrift.com/primark",
 		"enterButtonText": "SHOP NOW",
 		"webview": {
 			"active": true,
