@@ -45,7 +45,7 @@
 		"phoneSystemActivity": true,
 	    
 		"questionActivity1": {
-			"active": true,
+			"active": false,
 			"question": "Have you ever bought from Primark online store before?",
 			"ansewrA": "yes",
 			"ansewrB": "no"
@@ -56,7 +56,7 @@
 			"ansewrA": "Maybe",
 			"ansewrB": "I don't know"
 		},
-		"birthdayActivity": true,
+		"birthdayActivity": false,
 		"enterActivity": true,
 	    
 	    
