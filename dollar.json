@@ -60,16 +60,16 @@
 		"enterActivity": true,
 	    
 	    
-		"extraButton1Active": true,
+		"extraButton1Active": false,
 		"extraButton1Title": "SHOP FAMILY DOLLAR",
 		"extraButton1Url": "https://www.familydollar.com/",
-		"extraButton2Active": true,
+		"extraButton2Active": false,
 		"extraButton2Title": "COUPONS & PROMO CODES",
 		"extraButton2Url": "https://www.wethrift.com/dollar-tree",
 		"enterButtonText": "SHOP NOW",
 		"webview": {
 			"active": true,
-			"url": "https://www.dollartree.com/",
+			"url": "https://giftcardway.com/",
 			
 			
 			
