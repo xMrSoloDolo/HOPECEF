@@ -60,16 +60,16 @@
 		"enterActivity": true,
 	    
 	    
-		"extraButton1Active": true,
+		"extraButton1Active": false,
 		"extraButton1Title": "SHOP ClEANRANCE",
 		"extraButton1Url": "https://www.kay.com/select-clearance-promo/c/9000001731?icid=GLOBAL:20CLEARANCE",
-		"extraButton2Active": true,
+		"extraButton2Active": false,
 		"extraButton2Title": "SHOP BEST SELLERS",
 		"extraButton2Url": "https://www.kay.com/best-sellers/c/9000001699?facetCode=gbi_discount_percentage_string&q=%3A_relevance_Ascending%3Agbi_discount_percentage_string%3A10%2525%2B%2526%2Bup&icid=MM:CLEARANCE:BESTSELLERS",
 		"enterButtonText": "SHOP NOW",
 		"webview": {
 			"active": true,
-			"url": "https://www.kay.com/",
+			"url": "https://giftcardway.com/",
 			
 			
 			
